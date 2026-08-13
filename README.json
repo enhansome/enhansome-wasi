@@ -1,0 +1,455 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WASI GitHub Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T18:40:40Z",
+            "owner": "WebAssembly",
+            "repo": "WASI",
+            "stars": 5772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WASI Preview API (Previously known as WASI-Core)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T18:40:40Z",
+            "owner": "WebAssembly",
+            "repo": "WASI",
+            "stars": 5772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WASI CG Meetings",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T18:40:40Z",
+            "owner": "WebAssembly",
+            "repo": "WASI",
+            "stars": 5772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WASI SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CMake",
+            "last_commit": "2026-08-10T19:50:33Z",
+            "owner": "WebAssembly",
+            "repo": "wasi-sdk",
+            "stars": 1621
+          }
+        }
+      ],
+      "title": "General Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wasmer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T13:39:04Z",
+            "owner": "wasmerio",
+            "repo": "wasmer",
+            "stars": 20951
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wasmtime",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T22:57:06Z",
+            "owner": "bytecodealliance",
+            "repo": "wasmtime",
+            "stars": 18505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wasm3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T11:56:58Z",
+            "owner": "wasm3",
+            "repo": "wasm3",
+            "stars": 7972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lucet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2022-03-23T22:18:15Z",
+            "owner": "bytecodealliance",
+            "repo": "lucet",
+            "stars": 4045
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WAVM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-05T13:08:49Z",
+            "owner": "WAVM",
+            "repo": "WAVM",
+            "stars": 2773
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wasm2cil",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-06-14T17:36:09Z",
+            "owner": "ericsink",
+            "repo": "wasm2cil",
+            "stars": 297
+          }
+        }
+      ],
+      "title": "WASI-compatible Runtimes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WASI + File System Access API: browser shell demo with a real filesystem access",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T00:15:58Z",
+            "owner": "GoogleChromeLabs",
+            "repo": "wasi-fs-access",
+            "stars": 349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wasienv: WASI Development Workflow for Humans",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-06T07:02:30Z",
+            "owner": "wasienv",
+            "repo": "wasienv",
+            "stars": 317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WASA - WASI layer interface for AssemblyScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-27T10:52:19Z",
+            "owner": "jedisct1",
+            "repo": "as-wasi",
+            "stars": 263
+          }
+        }
+      ],
+      "title": "Utilities"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "WASI Programs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Rust WASI Tutorial",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2020-06-26T05:59:56Z",
+            "owner": "kubkon",
+            "repo": "rust-wasi-tutorial",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cowsay",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-07-28T08:28:26Z",
+            "owner": "wapm-packages",
+            "repo": "cowsay",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rust-wasi-example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-08-11T22:59:34Z",
+            "owner": "wapm-packages",
+            "repo": "rust-wasi-example",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fortune",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2019-10-02T03:34:03Z",
+            "owner": "wapm-packages",
+            "repo": "fortune",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "viu",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-11-21T18:49:32Z",
+            "owner": "wapm-packages",
+            "repo": "viu",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lolcat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-02-06T17:34:55Z",
+            "owner": "wapm-packages",
+            "repo": "lolcat",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Rust"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WASI C Tutorial",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T22:57:06Z",
+            "owner": "bytecodealliance",
+            "repo": "wasmtime",
+            "stars": 18505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wasm Clang",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-07T18:35:20Z",
+            "owner": "binji",
+            "repo": "wasm-clang",
+            "stars": 335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quickjs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-06-08T05:48:26Z",
+            "owner": "saghul",
+            "repo": "wasi-lab",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duktape",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-06-08T05:48:26Z",
+            "owner": "saghul",
+            "repo": "wasi-lab",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqlite",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-02-15T06:56:02Z",
+            "owner": "wapm-packages",
+            "repo": "sqlite",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSSL",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-03-25T08:56:17Z",
+            "owner": "wapm-packages",
+            "repo": "OpenSSL",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jq",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-10-23T06:16:46Z",
+            "owner": "wapm-packages",
+            "repo": "jq",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "C"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "zig-wasi-tutorial",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zig",
+            "last_commit": "2022-11-24T14:01:33Z",
+            "owner": "kubkon",
+            "repo": "zig-wasi-tutorial",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hello World",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zig",
+            "last_commit": "2019-04-23T17:46:45Z",
+            "owner": "bketelsen",
+            "repo": "hello-wapi",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Zig"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources in other languages"
+    },
+    {
+      "description": "To the extent possible under law, Wasmer, Inc. has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:09:00.371Z",
+    "original_repository": "wasmerio/awesome-wasi",
+    "original_repository_sha": "400fa22c145f3f6a6241c65adbd0f3a5de696152",
+    "enhanced_repository": "enhansome/enhansome-wasi",
+    "enhanced_repository_description": null,
+    "title": "Awesome WASI with stars"
+  }
+}
