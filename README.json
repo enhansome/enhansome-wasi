@@ -14,7 +14,7 @@
             "last_commit": "2026-08-11T18:40:40Z",
             "owner": "WebAssembly",
             "repo": "WASI",
-            "stars": 5775
+            "stars": 5774
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-11T18:40:40Z",
             "owner": "WebAssembly",
             "repo": "WASI",
-            "stars": 5775
+            "stars": 5774
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-11T18:40:40Z",
             "owner": "WebAssembly",
             "repo": "WASI",
-            "stars": 5775
+            "stars": 5774
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2026-08-15T11:18:53Z",
             "owner": "wasmerio",
             "repo": "wasmer",
-            "stars": 20955
+            "stars": 20956
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-14T19:11:37Z",
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18519
+            "stars": 18528
           }
         },
         {
@@ -101,7 +101,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T11:56:58Z",
+            "last_commit": "2026-08-16T10:32:40Z",
             "owner": "wasm3",
             "repo": "wasm3",
             "stars": 7972
@@ -309,7 +309,7 @@
             "last_commit": "2026-08-14T19:11:37Z",
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18519
+            "stars": 18528
           }
         },
         {
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:39:26.621Z",
+    "last_updated": "2026-08-16T19:38:48.769Z",
     "original_repository": "wasmerio/awesome-wasi",
     "original_repository_sha": "400fa22c145f3f6a6241c65adbd0f3a5de696152",
     "enhanced_repository": "enhansome/enhansome-wasi",

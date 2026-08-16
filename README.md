@@ -23,18 +23,18 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ## General Resources
 
-* [WASI GitHub Repo](https://github.com/webassembly/WASI) ⭐ 5,775 | 🐛 258 | 🌐 Rust | 📅 2026-08-11
-* [WASI Preview API (Previously known as WASI-Core)](https://github.com/WebAssembly/WASI/blob/master/phases/snapshot/docs.md) ⭐ 5,775 | 🐛 258 | 🌐 Rust | 📅 2026-08-11
-* [WASI CG Meetings](https://github.com/WebAssembly/WASI/tree/master/meetings) ⭐ 5,775 | 🐛 258 | 🌐 Rust | 📅 2026-08-11
+* [WASI GitHub Repo](https://github.com/webassembly/WASI) ⭐ 5,774 | 🐛 258 | 🌐 Rust | 📅 2026-08-11
+* [WASI Preview API (Previously known as WASI-Core)](https://github.com/WebAssembly/WASI/blob/master/phases/snapshot/docs.md) ⭐ 5,774 | 🐛 258 | 🌐 Rust | 📅 2026-08-11
+* [WASI CG Meetings](https://github.com/WebAssembly/WASI/tree/master/meetings) ⭐ 5,774 | 🐛 258 | 🌐 Rust | 📅 2026-08-11
 * [WASI SDK](https://github.com/CraneStation/wasi-sdk) ⭐ 1,623 | 🐛 61 | 🌐 CMake | 📅 2026-08-10
 * [Official Website](http://wasi.dev/)
 * [Mozilla Announcement](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
 
 ## WASI-compatible Runtimes
 
-* [Wasmer](https://github.com/wasmerio/wasmer) ⭐ 20,955 | 🐛 231 | 🌐 Rust | 📅 2026-08-15
-* [Wasmtime](https://github.com/cranestation/wasmtime) ⭐ 18,519 | 🐛 841 | 🌐 Rust | 📅 2026-08-14
-* [wasm3](https://github.com/wasm3/wasm3) ⭐ 7,972 | 🐛 64 | 🌐 C | 📅 2026-08-12
+* [Wasmer](https://github.com/wasmerio/wasmer) ⭐ 20,956 | 🐛 231 | 🌐 Rust | 📅 2026-08-15
+* [Wasmtime](https://github.com/cranestation/wasmtime) ⭐ 18,528 | 🐛 841 | 🌐 Rust | 📅 2026-08-14
+* [wasm3](https://github.com/wasm3/wasm3) ⭐ 7,972 | 🐛 66 | 🌐 C | 📅 2026-08-16
 * [Lucet](https://github.com/fastly/lucet) ⚠️ Archived
 * [WAVM](https://github.com/WAVM/WAVM) ⭐ 2,773 | 🐛 28 | 🌐 C++ | 📅 2026-04-05
 * [wasm2cil](https://github.com/ericsink/wasm2cil) ⭐ 297 | 🐛 6 | 🌐 C | 📅 2020-06-14
@@ -63,7 +63,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### C
 
-* [WASI C Tutorial](https://github.com/CraneStation/wasmtime/blob/master/docs/WASI-tutorial.md) ⭐ 18,519 | 🐛 841 | 🌐 Rust | 📅 2026-08-14
+* [WASI C Tutorial](https://github.com/CraneStation/wasmtime/blob/master/docs/WASI-tutorial.md) ⭐ 18,528 | 🐛 841 | 🌐 Rust | 📅 2026-08-14
 * [Wasm Clang](https://github.com/binji/wasm-clang) ⭐ 336 | 🐛 10 | 🌐 JavaScript | 📅 2023-12-07
 * [quickjs](https://github.com/saghul/wasi-lab/tree/master/qjs-wasi) ⭐ 118 | 🐛 4 | 🌐 C | 📅 2021-06-08
 * [duktape](https://github.com/saghul/wasi-lab/tree/master/wasiduk) ⭐ 118 | 🐛 4 | 🌐 C | 📅 2021-06-08
@@ -117,4 +117,4 @@ To the extent possible under law, [Wasmer, Inc.](https://github.com/wasmerio) ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
