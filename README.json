@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "CMake",
-            "last_commit": "2026-08-10T19:50:33Z",
+            "last_commit": "2026-08-17T17:39:47Z",
             "owner": "WebAssembly",
             "repo": "wasi-sdk",
-            "stars": 1623
+            "stars": 1621
           }
         }
       ],
@@ -73,10 +73,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T11:18:53Z",
+            "last_commit": "2026-08-17T16:47:50Z",
             "owner": "wasmerio",
             "repo": "wasmer",
-            "stars": 20956
+            "stars": 20955
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-14T19:11:37Z",
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18528
+            "stars": 18532
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2026-08-16T10:32:40Z",
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 7972
+            "stars": 7976
           }
         },
         {
@@ -309,7 +309,7 @@
             "last_commit": "2026-08-14T19:11:37Z",
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18528
+            "stars": 18532
           }
         },
         {
@@ -323,7 +323,7 @@
             "last_commit": "2023-12-07T18:35:20Z",
             "owner": "binji",
             "repo": "wasm-clang",
-            "stars": 336
+            "stars": 337
           }
         },
         {
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T19:38:48.769Z",
+    "last_updated": "2026-08-17T19:46:26.748Z",
     "original_repository": "wasmerio/awesome-wasi",
     "original_repository_sha": "400fa22c145f3f6a6241c65adbd0f3a5de696152",
     "enhanced_repository": "enhansome/enhansome-wasi",
