@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179135166,
             "language": "Rust",
             "last_commit": "2026-08-18T13:18:34Z",
             "owner": "WebAssembly",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179135166,
             "language": "Rust",
             "last_commit": "2026-08-18T13:18:34Z",
             "owner": "WebAssembly",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179135166,
             "language": "Rust",
             "last_commit": "2026-08-18T13:18:34Z",
             "owner": "WebAssembly",
@@ -52,18 +55,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174204333,
             "language": "CMake",
             "last_commit": "2026-08-17T17:39:47Z",
             "owner": "WebAssembly",
             "repo": "wasi-sdk",
-            "stars": 1621
+            "stars": 1622
           }
         }
       ],
       "title": "General Resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152572186,
             "language": "Rust",
-            "last_commit": "2026-08-18T14:48:10Z",
+            "last_commit": "2026-08-19T09:22:38Z",
             "owner": "wasmerio",
             "repo": "wasmer",
-            "stars": 20956
+            "stars": 20957
           }
         },
         {
@@ -86,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101767772,
             "language": "Rust",
             "last_commit": "2026-08-18T17:54:47Z",
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18537
+            "stars": 18544
           }
         },
         {
@@ -100,11 +106,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 212152900,
             "language": "C",
-            "last_commit": "2026-08-18T14:21:21Z",
+            "last_commit": "2026-08-19T12:14:50Z",
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 7979
+            "stars": 7984
           }
         },
         {
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 160877137,
             "language": "Rust",
             "last_commit": "2022-03-23T22:18:15Z",
             "owner": "bytecodealliance",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41151921,
             "language": "C++",
             "last_commit": "2026-04-05T13:08:49Z",
             "owner": "WAVM",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178110324,
             "language": "C",
             "last_commit": "2020-06-14T17:36:09Z",
             "owner": "ericsink",
@@ -153,7 +163,7 @@
       "title": "WASI-compatible Runtimes"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -162,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 299293649,
             "language": "TypeScript",
             "last_commit": "2026-07-24T00:15:58Z",
             "owner": "GoogleChromeLabs",
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 215626440,
             "language": "Python",
             "last_commit": "2023-06-06T07:02:30Z",
             "owner": "wasienv",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177994121,
             "language": "TypeScript",
             "last_commit": "2025-12-27T10:52:19Z",
             "owner": "jedisct1",
@@ -201,252 +214,262 @@
       "title": "Utilities"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Rust WASI Tutorial",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178423226,
+                "language": "Rust",
+                "last_commit": "2020-06-26T05:59:56Z",
+                "owner": "kubkon",
+                "repo": "rust-wasi-tutorial",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cowsay",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179773770,
+                "language": "Rust",
+                "last_commit": "2023-07-28T08:28:26Z",
+                "owner": "wapm-packages",
+                "repo": "cowsay",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rust-wasi-example",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179583895,
+                "language": "Rust",
+                "last_commit": "2021-08-11T22:59:34Z",
+                "owner": "wapm-packages",
+                "repo": "rust-wasi-example",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fortune",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 185503543,
+                "language": "Rust",
+                "last_commit": "2019-10-02T03:34:03Z",
+                "owner": "wapm-packages",
+                "repo": "fortune",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "viu",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188359329,
+                "language": "Rust",
+                "last_commit": "2023-11-21T18:49:32Z",
+                "owner": "wapm-packages",
+                "repo": "viu",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lolcat",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 182168374,
+                "language": "Rust",
+                "last_commit": "2024-02-06T17:34:55Z",
+                "owner": "wapm-packages",
+                "repo": "lolcat",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "WASI C Tutorial",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101767772,
+                "language": "Rust",
+                "last_commit": "2026-08-18T17:54:47Z",
+                "owner": "bytecodealliance",
+                "repo": "wasmtime",
+                "stars": 18544
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wasm Clang",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 203206957,
+                "language": "JavaScript",
+                "last_commit": "2023-12-07T18:35:20Z",
+                "owner": "binji",
+                "repo": "wasm-clang",
+                "stars": 337
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "quickjs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 196647633,
+                "language": "C",
+                "last_commit": "2021-06-08T05:48:26Z",
+                "owner": "saghul",
+                "repo": "wasi-lab",
+                "stars": 118
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "duktape",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 196647633,
+                "language": "C",
+                "last_commit": "2021-06-08T05:48:26Z",
+                "owner": "saghul",
+                "repo": "wasi-lab",
+                "stars": 118
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sqlite",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 177688394,
+                "language": "C",
+                "last_commit": "2022-02-15T06:56:02Z",
+                "owner": "wapm-packages",
+                "repo": "sqlite",
+                "stars": 64
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenSSL",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 187396734,
+                "language": "C",
+                "last_commit": "2021-03-25T08:56:17Z",
+                "owner": "wapm-packages",
+                "repo": "OpenSSL",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jq",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 187102770,
+                "language": "Shell",
+                "last_commit": "2019-10-23T06:16:46Z",
+                "owner": "wapm-packages",
+                "repo": "jq",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "zig-wasi-tutorial",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 265169340,
+                "language": "Zig",
+                "last_commit": "2022-11-24T14:01:33Z",
+                "owner": "kubkon",
+                "repo": "zig-wasi-tutorial",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hello World",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 183066177,
+                "language": "Zig",
+                "last_commit": "2019-04-23T17:46:45Z",
+                "owner": "bketelsen",
+                "repo": "hello-wapi",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Zig"
+        }
+      ],
       "title": "WASI Programs"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Rust WASI Tutorial",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2020-06-26T05:59:56Z",
-            "owner": "kubkon",
-            "repo": "rust-wasi-tutorial",
-            "stars": 85
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cowsay",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-07-28T08:28:26Z",
-            "owner": "wapm-packages",
-            "repo": "cowsay",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rust-wasi-example",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2021-08-11T22:59:34Z",
-            "owner": "wapm-packages",
-            "repo": "rust-wasi-example",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fortune",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2019-10-02T03:34:03Z",
-            "owner": "wapm-packages",
-            "repo": "fortune",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "viu",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-11-21T18:49:32Z",
-            "owner": "wapm-packages",
-            "repo": "viu",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lolcat",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-02-06T17:34:55Z",
-            "owner": "wapm-packages",
-            "repo": "lolcat",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Rust"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "WASI C Tutorial",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T17:54:47Z",
-            "owner": "bytecodealliance",
-            "repo": "wasmtime",
-            "stars": 18537
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wasm Clang",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-12-07T18:35:20Z",
-            "owner": "binji",
-            "repo": "wasm-clang",
-            "stars": 337
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "quickjs",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2021-06-08T05:48:26Z",
-            "owner": "saghul",
-            "repo": "wasi-lab",
-            "stars": 118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "duktape",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2021-06-08T05:48:26Z",
-            "owner": "saghul",
-            "repo": "wasi-lab",
-            "stars": 118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sqlite",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-02-15T06:56:02Z",
-            "owner": "wapm-packages",
-            "repo": "sqlite",
-            "stars": 64
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenSSL",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2021-03-25T08:56:17Z",
-            "owner": "wapm-packages",
-            "repo": "OpenSSL",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jq",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2019-10-23T06:16:46Z",
-            "owner": "wapm-packages",
-            "repo": "jq",
-            "stars": 14
-          }
-        }
-      ],
-      "title": "C"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "zig-wasi-tutorial",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Zig",
-            "last_commit": "2022-11-24T14:01:33Z",
-            "owner": "kubkon",
-            "repo": "zig-wasi-tutorial",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hello World",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Zig",
-            "last_commit": "2019-04-23T17:46:45Z",
-            "owner": "bketelsen",
-            "repo": "hello-wapi",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Zig"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Resources in other languages"
-    },
-    {
-      "description": "To the extent possible under law, Wasmer, Inc. has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:45:02.715Z",
+    "last_updated": "2026-08-19T12:57:00.324Z",
     "original_repository": "wasmerio/awesome-wasi",
+    "original_repository_id": 187733739,
     "original_repository_sha": "400fa22c145f3f6a6241c65adbd0f3a5de696152",
     "enhanced_repository": "enhansome/enhansome-wasi",
     "enhanced_repository_description": null,
