@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T13:18:34Z",
             "owner": "WebAssembly",
             "repo": "WASI",
-            "stars": 5781
+            "stars": 5782
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-18T13:18:34Z",
             "owner": "WebAssembly",
             "repo": "WASI",
-            "stars": 5781
+            "stars": 5782
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-18T13:18:34Z",
             "owner": "WebAssembly",
             "repo": "WASI",
-            "stars": 5781
+            "stars": 5782
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-21T13:45:57Z",
             "owner": "wasmerio",
             "repo": "wasmer",
-            "stars": 20964
+            "stars": 20966
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-21T18:19:44Z",
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18553
+            "stars": 18560
           }
         },
         {
@@ -108,10 +108,10 @@
             "archived": false,
             "id": 212152900,
             "language": "C",
-            "last_commit": "2026-08-22T09:33:28Z",
+            "last_commit": "2026-08-23T09:33:42Z",
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 7992
+            "stars": 7994
           }
         },
         {
@@ -327,7 +327,7 @@
                 "last_commit": "2026-08-21T18:19:44Z",
                 "owner": "bytecodealliance",
                 "repo": "wasmtime",
-                "stars": 18553
+                "stars": 18560
               }
             },
             {
@@ -467,7 +467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T19:40:52.822Z",
+    "last_updated": "2026-08-23T19:40:35.757Z",
     "original_repository": "wasmerio/awesome-wasi",
     "original_repository_id": 187733739,
     "original_repository_sha": "400fa22c145f3f6a6241c65adbd0f3a5de696152",
