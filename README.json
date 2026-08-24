@@ -57,10 +57,10 @@
             "archived": false,
             "id": 174204333,
             "language": "CMake",
-            "last_commit": "2026-08-19T23:03:28Z",
+            "last_commit": "2026-08-24T14:15:49Z",
             "owner": "WebAssembly",
             "repo": "wasi-sdk",
-            "stars": 1624
+            "stars": 1627
           }
         }
       ],
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 152572186,
             "language": "Rust",
-            "last_commit": "2026-08-21T13:45:57Z",
+            "last_commit": "2026-08-24T14:02:22Z",
             "owner": "wasmerio",
             "repo": "wasmer",
-            "stars": 20966
+            "stars": 20968
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-23T09:33:42Z",
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 7994
+            "stars": 7995
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-04-05T13:08:49Z",
             "owner": "WAVM",
             "repo": "WAVM",
-            "stars": 2773
+            "stars": 2774
           }
         },
         {
@@ -216,6 +216,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "wasm-matrix",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 186184449,
+                "language": "TypeScript",
+                "last_commit": "2021-08-11T00:52:01Z",
+                "owner": "torch2424",
+                "repo": "wasm-matrix",
+                "stars": 72
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AssemblyScript"
+        },
         {
           "children": [
             {
@@ -357,7 +379,7 @@
                 "last_commit": "2021-06-08T05:48:26Z",
                 "owner": "saghul",
                 "repo": "wasi-lab",
-                "stars": 118
+                "stars": 119
               }
             },
             {
@@ -372,7 +394,7 @@
                 "last_commit": "2021-06-08T05:48:26Z",
                 "owner": "saghul",
                 "repo": "wasi-lab",
-                "stars": 118
+                "stars": 119
               }
             },
             {
@@ -429,6 +451,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "SHA256",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 591729724,
+                "language": "WebAssembly",
+                "last_commit": "2026-05-13T16:59:39Z",
+                "owner": "ChrisWhealy",
+                "repo": "wasm_sha256",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "WebAssembly Text"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "zig-wasi-tutorial",
               "description": null,
               "children": [],
@@ -467,7 +511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:40:35.757Z",
+    "last_updated": "2026-08-24T14:25:26.628Z",
     "original_repository": "wasmerio/awesome-wasi",
     "original_repository_id": 187733739,
     "original_repository_sha": "400fa22c145f3f6a6241c65adbd0f3a5de696152",
