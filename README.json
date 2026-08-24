@@ -57,7 +57,7 @@
             "archived": false,
             "id": 174204333,
             "language": "CMake",
-            "last_commit": "2026-08-24T14:15:49Z",
+            "last_commit": "2026-08-24T18:52:22Z",
             "owner": "WebAssembly",
             "repo": "wasi-sdk",
             "stars": 1627
@@ -78,7 +78,7 @@
             "archived": false,
             "id": 152572186,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:02:22Z",
+            "last_commit": "2026-08-24T17:36:37Z",
             "owner": "wasmerio",
             "repo": "wasmer",
             "stars": 20968
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 101767772,
             "language": "Rust",
-            "last_commit": "2026-08-21T18:19:44Z",
+            "last_commit": "2026-08-24T19:39:02Z",
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18560
+            "stars": 18561
           }
         },
         {
@@ -108,10 +108,10 @@
             "archived": false,
             "id": 212152900,
             "language": "C",
-            "last_commit": "2026-08-23T09:33:42Z",
+            "last_commit": "2026-08-24T17:20:33Z",
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 7995
+            "stars": 7997
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-04-05T13:08:49Z",
             "owner": "WAVM",
             "repo": "WAVM",
-            "stars": 2774
+            "stars": 2775
           }
         },
         {
@@ -346,10 +346,10 @@
                 "archived": false,
                 "id": 101767772,
                 "language": "Rust",
-                "last_commit": "2026-08-21T18:19:44Z",
+                "last_commit": "2026-08-24T19:39:02Z",
                 "owner": "bytecodealliance",
                 "repo": "wasmtime",
-                "stars": 18560
+                "stars": 18561
               }
             },
             {
@@ -511,7 +511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:25:26.628Z",
+    "last_updated": "2026-08-24T19:48:27.805Z",
     "original_repository": "wasmerio/awesome-wasi",
     "original_repository_id": 187733739,
     "original_repository_sha": "400fa22c145f3f6a6241c65adbd0f3a5de696152",
