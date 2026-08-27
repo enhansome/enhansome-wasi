@@ -60,7 +60,7 @@
             "last_commit": "2026-08-24T19:52:50Z",
             "owner": "WebAssembly",
             "repo": "wasi-sdk",
-            "stars": 1628
+            "stars": 1629
           }
         }
       ],
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 152572186,
             "language": "Rust",
-            "last_commit": "2026-08-26T13:29:55Z",
+            "last_commit": "2026-08-27T12:07:52Z",
             "owner": "wasmerio",
             "repo": "wasmer",
-            "stars": 20973
+            "stars": 20974
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 101767772,
             "language": "Rust",
-            "last_commit": "2026-08-26T22:16:00Z",
+            "last_commit": "2026-08-26T22:23:00Z",
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18570
+            "stars": 18572
           }
         },
         {
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 212152900,
             "language": "C",
-            "last_commit": "2026-08-26T14:47:10Z",
+            "last_commit": "2026-08-27T10:38:26Z",
             "owner": "wasm3",
             "repo": "wasm3",
             "stars": 8002
@@ -346,10 +346,10 @@
                 "archived": false,
                 "id": 101767772,
                 "language": "Rust",
-                "last_commit": "2026-08-26T22:16:00Z",
+                "last_commit": "2026-08-26T22:23:00Z",
                 "owner": "bytecodealliance",
                 "repo": "wasmtime",
-                "stars": 18570
+                "stars": 18572
               }
             },
             {
@@ -511,9 +511,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T22:19:19.010Z",
-    "original_repository": "wasmerio/awesome-wasi",
-    "original_repository_id": 187733739,
+    "last_updated": "2026-08-27T12:10:23.921Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 187733739,
+      "language": null,
+      "last_commit": "2025-09-30T14:51:03Z",
+      "owner": "wasmerio",
+      "repo": "awesome-wasi",
+      "stars": 554
+    },
     "original_repository_sha": "400fa22c145f3f6a6241c65adbd0f3a5de696152",
     "enhanced_repository": "enhansome/enhansome-wasi",
     "enhanced_repository_description": null,
