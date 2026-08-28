@@ -78,10 +78,10 @@
             "archived": false,
             "id": 152572186,
             "language": "Rust",
-            "last_commit": "2026-08-27T12:07:52Z",
+            "last_commit": "2026-08-27T13:36:47Z",
             "owner": "wasmerio",
             "repo": "wasmer",
-            "stars": 20974
+            "stars": 20975
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 101767772,
             "language": "Rust",
-            "last_commit": "2026-08-26T22:23:00Z",
+            "last_commit": "2026-08-27T23:04:43Z",
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18572
+            "stars": 18576
           }
         },
         {
@@ -108,10 +108,10 @@
             "archived": false,
             "id": 212152900,
             "language": "C",
-            "last_commit": "2026-08-27T10:38:26Z",
+            "last_commit": "2026-08-27T16:56:41Z",
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 8002
+            "stars": 8006
           }
         },
         {
@@ -346,10 +346,10 @@
                 "archived": false,
                 "id": 101767772,
                 "language": "Rust",
-                "last_commit": "2026-08-26T22:23:00Z",
+                "last_commit": "2026-08-27T23:04:43Z",
                 "owner": "bytecodealliance",
                 "repo": "wasmtime",
-                "stars": 18572
+                "stars": 18576
               }
             },
             {
@@ -511,7 +511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:10:23.921Z",
+    "last_updated": "2026-08-28T03:36:42.351Z",
     "original_repository_info": {
       "archived": false,
       "id": 187733739,
