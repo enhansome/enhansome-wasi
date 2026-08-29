@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAssembly System Interface",
+            "homepage": null,
             "id": 179135166,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-18T13:18:34Z",
+            "open_issues": 248,
             "owner": "WebAssembly",
             "repo": "WASI",
-            "stars": 5783
+            "stars": 5783,
+            "topics": [
+              "http",
+              "os",
+              "wasi",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-29T02:17:38.341Z"
         },
@@ -26,12 +36,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAssembly System Interface",
+            "homepage": null,
             "id": 179135166,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-18T13:18:34Z",
+            "open_issues": 248,
             "owner": "WebAssembly",
             "repo": "WASI",
-            "stars": 5783
+            "stars": 5783,
+            "topics": [
+              "http",
+              "os",
+              "wasi",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-29T02:17:38.341Z"
         },
@@ -42,12 +62,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAssembly System Interface",
+            "homepage": null,
             "id": 179135166,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-18T13:18:34Z",
+            "open_issues": 248,
             "owner": "WebAssembly",
             "repo": "WASI",
-            "stars": 5783
+            "stars": 5783,
+            "topics": [
+              "http",
+              "os",
+              "wasi",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-29T02:17:38.341Z"
         },
@@ -58,12 +88,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WASI-enabled WebAssembly C/C++ toolchain",
+            "homepage": null,
             "id": 174204333,
             "language": "CMake",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T19:52:50Z",
+            "open_issues": 59,
             "owner": "WebAssembly",
             "repo": "wasi-sdk",
-            "stars": 1632
+            "stars": 1632,
+            "topics": [
+              "llvm",
+              "sysroot",
+              "wasi-libc",
+              "wasi-sdk"
+            ]
           },
           "first_seen": "2026-08-29T02:17:38.341Z"
         }
@@ -80,12 +120,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Fast, secure, lightweight containers based on WebAssembly",
+            "homepage": "https://wasmer.io",
             "id": 152572186,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-29T01:41:13Z",
+            "open_issues": 251,
             "owner": "wasmerio",
             "repo": "wasmer",
-            "stars": 20984
+            "stars": 20985,
+            "topics": [
+              "emscripten",
+              "linux",
+              "macos",
+              "rust",
+              "wasi",
+              "wasix",
+              "wasm",
+              "wasmer",
+              "webassembly",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T02:17:38.341Z"
         },
@@ -96,12 +152,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant",
+            "homepage": "https://wasmtime.dev/",
             "id": 101767772,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T21:35:24Z",
+            "open_issues": 850,
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18578
+            "stars": 18579,
+            "topics": [
+              "aot",
+              "cranelift",
+              "jit",
+              "lightweight",
+              "portable",
+              "runtime",
+              "rust",
+              "sandbox",
+              "standalone",
+              "wasi",
+              "wasm",
+              "wasmtime",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-29T02:17:38.341Z"
         },
@@ -112,12 +187,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 A fast WebAssembly interpreter and the most universal WASM runtime",
+            "homepage": "https://twitter.com/wasm3_engine",
             "id": 212152900,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:56:31Z",
+            "open_issues": 19,
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 8007
+            "stars": 8007,
+            "topics": [
+              "containers",
+              "cosmopolitan",
+              "devops",
+              "edge-computing",
+              "embedded",
+              "iot",
+              "sandbox",
+              "scripting",
+              "serverless",
+              "smart-contracts",
+              "virtual-machine",
+              "wasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-29T02:17:38.341Z"
         },
@@ -128,12 +222,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Lucet, the Sandboxing WebAssembly Compiler.",
+            "homepage": null,
             "id": 160877137,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2022-03-23T22:18:15Z",
+            "open_issues": 65,
             "owner": "bytecodealliance",
             "repo": "lucet",
-            "stars": 4045
+            "stars": 4045,
+            "topics": [
+              "assemblyscript",
+              "rust",
+              "wasi",
+              "wasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-29T02:17:38.341Z"
         },
@@ -144,12 +249,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAssembly Virtual Machine",
+            "homepage": "https://wavm.github.io/",
             "id": 41151921,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-04-05T13:08:49Z",
+            "open_issues": 29,
             "owner": "WAVM",
             "repo": "WAVM",
-            "stars": 2775
+            "stars": 2776,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:17:38.341Z"
         },
@@ -160,12 +270,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A \"compiler\" that can take a WebAssembly/WASI module and convert it to a .NET assembly",
+            "homepage": null,
             "id": 178110324,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2020-06-14T17:36:09Z",
+            "open_issues": 6,
             "owner": "ericsink",
             "repo": "wasm2cil",
-            "stars": 297
+            "stars": 297,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:17:38.341Z"
         }
@@ -182,12 +297,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a demo shell powered by WebAssembly, WASI, Asyncify and File System Access API.",
+            "homepage": "https://wasi.rreverser.com/",
             "id": 299293649,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-24T00:15:58Z",
+            "open_issues": 4,
             "owner": "GoogleChromeLabs",
             "repo": "wasi-fs-access",
-            "stars": 349
+            "stars": 349,
+            "topics": [
+              "coreutils",
+              "demo",
+              "filesystem",
+              "wasi",
+              "web",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-29T02:17:38.341Z"
         },
@@ -198,12 +325,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wasienv: WASI Development Toolchain for C/C++",
+            "homepage": "https://medium.com/wasmer/wasienv-wasi-development-workflow-for-humans-1811d9a50345",
             "id": 215626440,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-06T07:02:30Z",
+            "open_issues": 26,
             "owner": "wasienv",
             "repo": "wasienv",
-            "stars": 317
+            "stars": 317,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:17:38.341Z"
         },
@@ -214,12 +346,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AssemblyScript API layer for WASI system calls.",
+            "homepage": null,
             "id": 177994121,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-12-27T10:52:19Z",
+            "open_issues": 1,
             "owner": "jedisct1",
             "repo": "as-wasi",
-            "stars": 263
+            "stars": 263,
+            "topics": [
+              "assemblyscript",
+              "wasi",
+              "wasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-29T02:17:38.341Z"
         }
@@ -238,12 +380,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Matrix effect in your terminal using AssemblyScript 🚀 and WASI 🧩 . Deployed to WAPM 📦 .",
+                "homepage": null,
                 "id": 186184449,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2021-08-11T00:52:01Z",
+                "open_issues": 5,
                 "owner": "torch2424",
                 "repo": "wasm-matrix",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:17:38.341Z"
             }
@@ -261,12 +408,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust version of the excellent WASI tutorial https://github.com/CraneStation/wasmtime/blob/master/docs/WASI-tutorial.md",
+                "homepage": null,
                 "id": 178423226,
                 "language": "Rust",
+                "license": "Unlicense",
                 "last_commit": "2020-06-26T05:59:56Z",
+                "open_issues": 0,
                 "owner": "kubkon",
                 "repo": "rust-wasi-tutorial",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:17:38.341Z"
             },
@@ -277,12 +429,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cowsay in WebAssembly",
+                "homepage": "https://wasmer.io/syrusakbary/cowsay",
                 "id": 179773770,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2023-07-28T08:28:26Z",
+                "open_issues": 2,
                 "owner": "wapm-packages",
                 "repo": "cowsay",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:17:38.341Z"
             },
@@ -293,12 +450,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toy Rust application compiled to WASI WebAssembly",
+                "homepage": null,
                 "id": 179583895,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2021-08-11T22:59:34Z",
+                "open_issues": 1,
                 "owner": "wapm-packages",
                 "repo": "rust-wasi-example",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:17:38.341Z"
             },
@@ -309,12 +471,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fortune teller written in Rust",
+                "homepage": null,
                 "id": 185503543,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2019-10-02T03:34:03Z",
+                "open_issues": 0,
                 "owner": "wapm-packages",
                 "repo": "fortune",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:17:38.341Z"
             },
@@ -325,12 +492,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A command-line application to view images from the terminal written in Rust.",
+                "homepage": null,
                 "id": 188359329,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2023-11-21T18:49:32Z",
+                "open_issues": 1,
                 "owner": "wapm-packages",
                 "repo": "viu",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:17:38.341Z"
             },
@@ -341,12 +513,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "lolcat, now with fearless concurrency.",
+                "homepage": "https://wapm.io/package/lolcat",
                 "id": 182168374,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-02-06T17:34:55Z",
+                "open_issues": 1,
                 "owner": "wapm-packages",
                 "repo": "lolcat",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:17:38.341Z"
             }
@@ -364,12 +541,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant",
+                "homepage": "https://wasmtime.dev/",
                 "id": 101767772,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T21:35:24Z",
+                "open_issues": 850,
                 "owner": "bytecodealliance",
                 "repo": "wasmtime",
-                "stars": 18578
+                "stars": 18579,
+                "topics": [
+                  "aot",
+                  "cranelift",
+                  "jit",
+                  "lightweight",
+                  "portable",
+                  "runtime",
+                  "rust",
+                  "sandbox",
+                  "standalone",
+                  "wasi",
+                  "wasm",
+                  "wasmtime",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-29T02:17:38.341Z"
             },
@@ -380,12 +576,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Running Clang/LLD in WebAssembly Demo",
+                "homepage": "https://binji.github.io/wasm-clang",
                 "id": 203206957,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-07T18:35:20Z",
+                "open_issues": 10,
                 "owner": "binji",
                 "repo": "wasm-clang",
-                "stars": 338
+                "stars": 338,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:17:38.341Z"
             },
@@ -396,12 +597,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some WASI experiments 🧪☣️☠️",
+                "homepage": null,
                 "id": 196647633,
                 "language": "C",
+                "license": null,
                 "last_commit": "2021-06-08T05:48:26Z",
+                "open_issues": 4,
                 "owner": "saghul",
                 "repo": "wasi-lab",
-                "stars": 119
+                "stars": 119,
+                "topics": [
+                  "duktape",
+                  "javascript",
+                  "quickjs",
+                  "wasi",
+                  "wasm"
+                ]
               },
               "first_seen": "2026-08-29T02:17:38.341Z"
             },
@@ -412,12 +624,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some WASI experiments 🧪☣️☠️",
+                "homepage": null,
                 "id": 196647633,
                 "language": "C",
+                "license": null,
                 "last_commit": "2021-06-08T05:48:26Z",
+                "open_issues": 4,
                 "owner": "saghul",
                 "repo": "wasi-lab",
-                "stars": 119
+                "stars": 119,
+                "topics": [
+                  "duktape",
+                  "javascript",
+                  "quickjs",
+                  "wasi",
+                  "wasm"
+                ]
               },
               "first_seen": "2026-08-29T02:17:38.341Z"
             },
@@ -428,12 +651,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SQLite compiled to WebAssembly and WASI",
+                "homepage": "https://wapm.io/package/sqlite",
                 "id": 177688394,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-02-15T06:56:02Z",
+                "open_issues": 1,
                 "owner": "wapm-packages",
                 "repo": "sqlite",
-                "stars": 64
+                "stars": 64,
+                "topics": [
+                  "wasi",
+                  "wasm",
+                  "wasmer",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-29T02:17:38.341Z"
             },
@@ -444,12 +677,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenSSL is a robust, commercial-grade, and full-featured toolkit for the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols",
+                "homepage": null,
                 "id": 187396734,
                 "language": "C",
+                "license": null,
                 "last_commit": "2021-03-25T08:56:17Z",
+                "open_issues": 2,
                 "owner": "wapm-packages",
                 "repo": "OpenSSL",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "openssl",
+                  "wasi",
+                  "wasm",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-29T02:17:38.341Z"
             },
@@ -460,12 +703,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command-line JSON processor",
+                "homepage": null,
                 "id": 187102770,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2019-10-23T06:16:46Z",
+                "open_issues": 0,
                 "owner": "wapm-packages",
                 "repo": "jq",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "wasi",
+                  "wasm",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-29T02:17:38.341Z"
             }
@@ -483,12 +735,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SHA256 implemented in WebAssembly Text",
+                "homepage": null,
                 "id": 591729724,
                 "language": "WebAssembly",
+                "license": "MIT",
                 "last_commit": "2026-05-13T16:59:39Z",
+                "open_issues": 0,
                 "owner": "ChrisWhealy",
                 "repo": "wasm_sha256",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "sha224",
+                  "sha256",
+                  "webassembly",
+                  "webassembly-text"
+                ]
               },
               "first_seen": "2026-08-29T02:17:38.341Z"
             }
@@ -506,12 +768,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zig version of WASI tutorial https://github.com/bytecodealliance/wasmtime/blob/master/docs/WASI-tutorial.md",
+                "homepage": null,
                 "id": 265169340,
                 "language": "Zig",
+                "license": "MIT",
                 "last_commit": "2022-11-24T14:01:33Z",
+                "open_issues": 1,
                 "owner": "kubkon",
                 "repo": "zig-wasi-tutorial",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:17:38.341Z"
             },
@@ -522,12 +789,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "wapm install bketelsen/hello && wapm run hello",
+                "homepage": null,
                 "id": 183066177,
                 "language": "Zig",
+                "license": null,
                 "last_commit": "2019-04-23T17:46:45Z",
+                "open_issues": 0,
                 "owner": "bketelsen",
                 "repo": "hello-wapi",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:17:38.341Z"
             }
@@ -541,15 +813,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:17:38.341Z",
+    "last_updated": "2026-08-29T04:45:07.368Z",
     "original_repository_info": {
       "archived": false,
+      "description": "😎 Curated list of awesome things regarding WebAssembly WASI ecosystem.",
+      "homepage": null,
       "id": 187733739,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-09-30T14:51:03Z",
+      "open_issues": 1,
       "owner": "wasmerio",
       "repo": "awesome-wasi",
-      "stars": 554
+      "stars": 554,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-wasi",
+        "awesome-wasm",
+        "list",
+        "lists",
+        "resources",
+        "wasi",
+        "wasm",
+        "webassembly"
+      ]
     },
     "original_repository_sha": "400fa22c145f3f6a6241c65adbd0f3a5de696152",
     "enhanced_repository": "enhansome/enhansome-wasi",
