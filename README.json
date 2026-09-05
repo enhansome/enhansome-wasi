@@ -19,7 +19,7 @@
             "open_issues": 249,
             "owner": "WebAssembly",
             "repo": "WASI",
-            "stars": 5789,
+            "stars": 5790,
             "topics": [
               "http",
               "os",
@@ -45,7 +45,7 @@
             "open_issues": 249,
             "owner": "WebAssembly",
             "repo": "WASI",
-            "stars": 5789,
+            "stars": 5790,
             "topics": [
               "http",
               "os",
@@ -71,7 +71,7 @@
             "open_issues": 249,
             "owner": "WebAssembly",
             "repo": "WASI",
-            "stars": 5789,
+            "stars": 5790,
             "topics": [
               "http",
               "os",
@@ -125,11 +125,11 @@
             "id": 152572186,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-04T14:34:26Z",
-            "open_issues": 251,
+            "last_commit": "2026-09-05T04:36:48Z",
+            "open_issues": 254,
             "owner": "wasmerio",
             "repo": "wasmer",
-            "stars": 21014,
+            "stars": 21016,
             "topics": [
               "emscripten",
               "linux",
@@ -157,11 +157,11 @@
             "id": 101767772,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T19:14:29Z",
+            "last_commit": "2026-09-05T04:46:08Z",
             "open_issues": 845,
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18594,
+            "stars": 18597,
             "topics": [
               "aot",
               "cranelift",
@@ -192,11 +192,11 @@
             "id": 212152900,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-04T10:29:20Z",
+            "last_commit": "2026-09-05T21:17:35Z",
             "open_issues": 18,
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 8017,
+            "stars": 8019,
             "topics": [
               "containers",
               "cosmopolitan",
@@ -546,11 +546,11 @@
                 "id": 101767772,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T19:14:29Z",
+                "last_commit": "2026-09-05T04:46:08Z",
                 "open_issues": 845,
                 "owner": "bytecodealliance",
                 "repo": "wasmtime",
-                "stars": 18594,
+                "stars": 18597,
                 "topics": [
                   "aot",
                   "cranelift",
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T21:33:38.188Z",
+    "last_updated": "2026-09-05T21:20:49.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Curated list of awesome things regarding WebAssembly WASI ecosystem.",
