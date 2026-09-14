@@ -97,7 +97,7 @@
             "open_issues": 36,
             "owner": "WebAssembly",
             "repo": "wasi-sdk",
-            "stars": 1638,
+            "stars": 1640,
             "topics": [
               "llvm",
               "sysroot",
@@ -126,7 +126,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-13T12:01:52Z",
-            "open_issues": 271,
+            "open_issues": 268,
             "owner": "wasmerio",
             "repo": "wasmer",
             "stars": 21026,
@@ -157,8 +157,8 @@
             "id": 101767772,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-13T01:18:52Z",
-            "open_issues": 849,
+            "last_commit": "2026-09-14T21:31:49Z",
+            "open_issues": 845,
             "owner": "bytecodealliance",
             "repo": "wasmtime",
             "stars": 18636,
@@ -192,11 +192,11 @@
             "id": 212152900,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-12T16:25:39Z",
+            "last_commit": "2026-09-14T20:29:55Z",
             "open_issues": 18,
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 8025,
+            "stars": 8027,
             "topics": [
               "containers",
               "cosmopolitan",
@@ -258,7 +258,7 @@
             "open_issues": 29,
             "owner": "WAVM",
             "repo": "WAVM",
-            "stars": 2779,
+            "stars": 2780,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:38.341Z"
@@ -546,8 +546,8 @@
                 "id": 101767772,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T01:18:52Z",
-                "open_issues": 849,
+                "last_commit": "2026-09-14T21:31:49Z",
+                "open_issues": 845,
                 "owner": "bytecodealliance",
                 "repo": "wasmtime",
                 "stars": 18636,
@@ -585,7 +585,7 @@
                 "open_issues": 10,
                 "owner": "binji",
                 "repo": "wasm-clang",
-                "stars": 342,
+                "stars": 343,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:17:38.341Z"
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T21:28:38.373Z",
+    "last_updated": "2026-09-14T22:34:18.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Curated list of awesome things regarding WebAssembly WASI ecosystem.",
