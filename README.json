@@ -19,7 +19,7 @@
             "open_issues": 248,
             "owner": "WebAssembly",
             "repo": "WASI",
-            "stars": 5795,
+            "stars": 5796,
             "topics": [
               "http",
               "os",
@@ -45,7 +45,7 @@
             "open_issues": 248,
             "owner": "WebAssembly",
             "repo": "WASI",
-            "stars": 5795,
+            "stars": 5796,
             "topics": [
               "http",
               "os",
@@ -71,7 +71,7 @@
             "open_issues": 248,
             "owner": "WebAssembly",
             "repo": "WASI",
-            "stars": 5795,
+            "stars": 5796,
             "topics": [
               "http",
               "os",
@@ -125,8 +125,8 @@
             "id": 152572186,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-15T18:28:49Z",
-            "open_issues": 270,
+            "last_commit": "2026-09-16T08:35:26Z",
+            "open_issues": 264,
             "owner": "wasmerio",
             "repo": "wasmer",
             "stars": 21028,
@@ -157,8 +157,8 @@
             "id": 101767772,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T22:16:20Z",
-            "open_issues": 847,
+            "last_commit": "2026-09-16T22:12:22Z",
+            "open_issues": 843,
             "owner": "bytecodealliance",
             "repo": "wasmtime",
             "stars": 18639,
@@ -546,8 +546,8 @@
                 "id": 101767772,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T22:16:20Z",
-                "open_issues": 847,
+                "last_commit": "2026-09-16T22:12:22Z",
+                "open_issues": 843,
                 "owner": "bytecodealliance",
                 "repo": "wasmtime",
                 "stars": 18639,
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T22:19:19.872Z",
+    "last_updated": "2026-09-16T22:13:18.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Curated list of awesome things regarding WebAssembly WASI ecosystem.",
