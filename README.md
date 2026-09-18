@@ -23,25 +23,25 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ## General Resources
 
-* [WASI GitHub Repo](https://github.com/webassembly/WASI) ⭐ 5,796 | 🐛 248 | 🌐 Rust | 📅 2026-09-08
-* [WASI Preview API (Previously known as WASI-Core)](https://github.com/WebAssembly/WASI/blob/master/phases/snapshot/docs.md) ⭐ 5,796 | 🐛 248 | 🌐 Rust | 📅 2026-09-08
-* [WASI CG Meetings](https://github.com/WebAssembly/WASI/tree/master/meetings) ⭐ 5,796 | 🐛 248 | 🌐 Rust | 📅 2026-09-08
+* [WASI GitHub Repo](https://github.com/webassembly/WASI) ⭐ 5,800 | 🐛 248 | 🌐 Rust | 📅 2026-09-08
+* [WASI Preview API (Previously known as WASI-Core)](https://github.com/WebAssembly/WASI/blob/master/phases/snapshot/docs.md) ⭐ 5,800 | 🐛 248 | 🌐 Rust | 📅 2026-09-08
+* [WASI CG Meetings](https://github.com/WebAssembly/WASI/tree/master/meetings) ⭐ 5,800 | 🐛 248 | 🌐 Rust | 📅 2026-09-08
 * [WASI SDK](https://github.com/CraneStation/wasi-sdk) ⭐ 1,640 | 🐛 36 | 🌐 CMake | 📅 2026-09-11
 * [Official Website](http://wasi.dev/)
 * [Mozilla Announcement](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
 
 ## WASI-compatible Runtimes
 
-* [Wasmer](https://github.com/wasmerio/wasmer) ⭐ 21,036 | 🐛 264 | 🌐 Rust | 📅 2026-09-17
-* [Wasmtime](https://github.com/cranestation/wasmtime) ⭐ 18,640 | 🐛 841 | 🌐 Rust | 📅 2026-09-17
-* [wasm3](https://github.com/wasm3/wasm3) ⭐ 8,027 | 🐛 18 | 🌐 C | 📅 2026-09-17
+* [Wasmer](https://github.com/wasmerio/wasmer) ⭐ 21,036 | 🐛 267 | 🌐 Rust | 📅 2026-09-18
+* [Wasmtime](https://github.com/cranestation/wasmtime) ⭐ 18,644 | 🐛 842 | 🌐 Rust | 📅 2026-09-18
+* [wasm3](https://github.com/wasm3/wasm3) ⭐ 8,029 | 🐛 19 | 🌐 C | 📅 2026-09-18
 * [Lucet](https://github.com/fastly/lucet) ⚠️ Archived
 * [WAVM](https://github.com/WAVM/WAVM) ⭐ 2,780 | 🐛 29 | 🌐 C++ | 📅 2026-04-05
 * [wasm2cil](https://github.com/ericsink/wasm2cil) ⭐ 297 | 🐛 6 | 🌐 C | 📅 2020-06-14
 
 ## Utilities
 
-* [WASI + File System Access API: browser shell demo with a real filesystem access](https://github.com/GoogleChromeLabs/wasi-fs-access) ⭐ 349 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-24
+* [WASI + File System Access API: browser shell demo with a real filesystem access](https://github.com/GoogleChromeLabs/wasi-fs-access) ⭐ 350 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-24
 * [Wasienv: WASI Development Workflow for Humans](https://github.com/wasienv/wasienv) ⭐ 317 | 🐛 26 | 🌐 Python | 📅 2023-06-06
 * [WASA - WASI layer interface for AssemblyScript](https://github.com/jedisct1/wasa) ⭐ 263 | 🐛 1 | 🌐 TypeScript | 📅 2025-12-27
 * [WebAssembly.sh - An online WebAssembly WASI shell](https://webassembly.sh)
@@ -63,7 +63,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### C
 
-* [WASI C Tutorial](https://github.com/CraneStation/wasmtime/blob/master/docs/WASI-tutorial.md) ⭐ 18,640 | 🐛 841 | 🌐 Rust | 📅 2026-09-17
+* [WASI C Tutorial](https://github.com/CraneStation/wasmtime/blob/master/docs/WASI-tutorial.md) ⭐ 18,644 | 🐛 842 | 🌐 Rust | 📅 2026-09-18
 * [Wasm Clang](https://github.com/binji/wasm-clang) ⭐ 344 | 🐛 10 | 🌐 JavaScript | 📅 2023-12-07
 * [quickjs](https://github.com/saghul/wasi-lab/tree/master/qjs-wasi) ⭐ 119 | 🐛 4 | 🌐 C | 📅 2021-06-08
 * [duktape](https://github.com/saghul/wasi-lab/tree/master/wasiduk) ⭐ 119 | 🐛 4 | 🌐 C | 📅 2021-06-08
@@ -117,4 +117,4 @@ To the extent possible under law, [Wasmer, Inc.](https://github.com/wasmerio) ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
