@@ -120,12 +120,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "🚀 Fast, secure, lightweight containers based on WebAssembly",
+            "description": "🚀 Fast and lightweight sandboxes for your apps and AI agents",
             "homepage": "https://wasmer.io",
             "id": 152572186,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-18T20:58:56Z",
+            "last_commit": "2026-09-19T01:08:13Z",
             "open_issues": 267,
             "owner": "wasmerio",
             "repo": "wasmer",
@@ -158,10 +158,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T17:35:46Z",
-            "open_issues": 842,
+            "open_issues": 848,
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18644,
+            "stars": 18645,
             "topics": [
               "aot",
               "cranelift",
@@ -192,11 +192,11 @@
             "id": 212152900,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-18T09:44:25Z",
+            "last_commit": "2026-09-19T06:44:52Z",
             "open_issues": 19,
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 8029,
+            "stars": 8028,
             "topics": [
               "containers",
               "cosmopolitan",
@@ -547,10 +547,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-18T17:35:46Z",
-                "open_issues": 842,
+                "open_issues": 848,
                 "owner": "bytecodealliance",
                 "repo": "wasmtime",
-                "stars": 18644,
+                "stars": 18645,
                 "topics": [
                   "aot",
                   "cranelift",
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T21:44:21.196Z",
+    "last_updated": "2026-09-19T21:29:44.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Curated list of awesome things regarding WebAssembly WASI ecosystem.",
