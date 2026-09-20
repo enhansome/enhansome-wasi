@@ -125,8 +125,8 @@
             "id": 152572186,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-19T01:08:13Z",
-            "open_issues": 267,
+            "last_commit": "2026-09-20T15:54:13Z",
+            "open_issues": 266,
             "owner": "wasmerio",
             "repo": "wasmer",
             "stars": 21036,
@@ -157,11 +157,11 @@
             "id": 101767772,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T17:35:46Z",
-            "open_issues": 848,
+            "last_commit": "2026-09-20T00:32:53Z",
+            "open_issues": 850,
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18645,
+            "stars": 18649,
             "topics": [
               "aot",
               "cranelift",
@@ -196,7 +196,7 @@
             "open_issues": 19,
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 8028,
+            "stars": 8029,
             "topics": [
               "containers",
               "cosmopolitan",
@@ -546,11 +546,11 @@
                 "id": 101767772,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T17:35:46Z",
-                "open_issues": 848,
+                "last_commit": "2026-09-20T00:32:53Z",
+                "open_issues": 850,
                 "owner": "bytecodealliance",
                 "repo": "wasmtime",
-                "stars": 18645,
+                "stars": 18649,
                 "topics": [
                   "aot",
                   "cranelift",
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T21:29:44.214Z",
+    "last_updated": "2026-09-20T21:38:04.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Curated list of awesome things regarding WebAssembly WASI ecosystem.",
@@ -825,7 +825,7 @@
       "open_issues": 2,
       "owner": "wasmerio",
       "repo": "awesome-wasi",
-      "stars": 555,
+      "stars": 554,
       "topics": [
         "awesome",
         "awesome-list",
