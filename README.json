@@ -19,7 +19,7 @@
             "open_issues": 248,
             "owner": "WebAssembly",
             "repo": "WASI",
-            "stars": 5815,
+            "stars": 5817,
             "topics": [
               "http",
               "os",
@@ -45,7 +45,7 @@
             "open_issues": 248,
             "owner": "WebAssembly",
             "repo": "WASI",
-            "stars": 5815,
+            "stars": 5817,
             "topics": [
               "http",
               "os",
@@ -71,7 +71,7 @@
             "open_issues": 248,
             "owner": "WebAssembly",
             "repo": "WASI",
-            "stars": 5815,
+            "stars": 5817,
             "topics": [
               "http",
               "os",
@@ -129,7 +129,7 @@
             "open_issues": 281,
             "owner": "wasmerio",
             "repo": "wasmer",
-            "stars": 21092,
+            "stars": 21097,
             "topics": [
               "emscripten",
               "linux",
@@ -158,7 +158,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-26T17:10:08Z",
-            "open_issues": 833,
+            "open_issues": 835,
             "owner": "bytecodealliance",
             "repo": "wasmtime",
             "stars": 18660,
@@ -547,7 +547,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-26T17:10:08Z",
-                "open_issues": 833,
+                "open_issues": 835,
                 "owner": "bytecodealliance",
                 "repo": "wasmtime",
                 "stars": 18660,
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T21:59:48.229Z",
+    "last_updated": "2026-09-27T22:20:14.788Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Curated list of awesome things regarding WebAssembly WASI ecosystem.",
