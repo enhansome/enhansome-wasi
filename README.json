@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "WASI GitHub Repo",
-          "description": null,
+          "description": "WebAssembly/WASI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -32,7 +32,7 @@
         {
           "node_type": "item",
           "title": "WASI Preview API (Previously known as WASI-Core)",
-          "description": null,
+          "description": "WebAssembly/WASI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -58,7 +58,7 @@
         {
           "node_type": "item",
           "title": "WASI CG Meetings",
-          "description": null,
+          "description": "WebAssembly/WASI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -84,7 +84,7 @@
         {
           "node_type": "item",
           "title": "WASI SDK",
-          "description": null,
+          "description": "WebAssembly/wasi-sdk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -97,7 +97,7 @@
             "open_issues": 36,
             "owner": "WebAssembly",
             "repo": "wasi-sdk",
-            "stars": 1643,
+            "stars": 1644,
             "topics": [
               "llvm",
               "sysroot",
@@ -116,7 +116,7 @@
         {
           "node_type": "item",
           "title": "Wasmer",
-          "description": null,
+          "description": "wasmerio/wasmer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -125,11 +125,11 @@
             "id": 152572186,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-02T22:34:28Z",
-            "open_issues": 284,
+            "last_commit": "2026-10-03T00:02:51Z",
+            "open_issues": 282,
             "owner": "wasmerio",
             "repo": "wasmer",
-            "stars": 21117,
+            "stars": 21118,
             "topics": [
               "emscripten",
               "linux",
@@ -148,7 +148,7 @@
         {
           "node_type": "item",
           "title": "Wasmtime",
-          "description": null,
+          "description": "bytecodealliance/wasmtime",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -158,10 +158,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T23:03:16Z",
-            "open_issues": 843,
+            "open_issues": 850,
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18679,
+            "stars": 18681,
             "topics": [
               "aot",
               "cranelift",
@@ -183,7 +183,7 @@
         {
           "node_type": "item",
           "title": "wasm3",
-          "description": null,
+          "description": "wasm3/wasm3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -196,7 +196,7 @@
             "open_issues": 18,
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 8036,
+            "stars": 8037,
             "topics": [
               "containers",
               "cosmopolitan",
@@ -218,7 +218,7 @@
         {
           "node_type": "item",
           "title": "Lucet",
-          "description": null,
+          "description": "bytecodealliance/lucet",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -245,7 +245,7 @@
         {
           "node_type": "item",
           "title": "WAVM",
-          "description": null,
+          "description": "WAVM/WAVM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -266,7 +266,7 @@
         {
           "node_type": "item",
           "title": "wasm2cil",
-          "description": null,
+          "description": "ericsink/wasm2cil",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -293,7 +293,7 @@
         {
           "node_type": "item",
           "title": "WASI + File System Access API: browser shell demo with a real filesystem access",
-          "description": null,
+          "description": "GoogleChromeLabs/wasi-fs-access",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -321,7 +321,7 @@
         {
           "node_type": "item",
           "title": "Wasienv: WASI Development Workflow for Humans",
-          "description": null,
+          "description": "wasienv/wasienv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -342,7 +342,7 @@
         {
           "node_type": "item",
           "title": "WASA - WASI layer interface for AssemblyScript",
-          "description": null,
+          "description": "jedisct1/as-wasi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -376,7 +376,7 @@
             {
               "node_type": "item",
               "title": "wasm-matrix",
-              "description": null,
+              "description": "torch2424/wasm-matrix",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -404,7 +404,7 @@
             {
               "node_type": "item",
               "title": "Rust WASI Tutorial",
-              "description": null,
+              "description": "kubkon/rust-wasi-tutorial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -425,7 +425,7 @@
             {
               "node_type": "item",
               "title": "cowsay",
-              "description": null,
+              "description": "wapm-packages/cowsay",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -446,7 +446,7 @@
             {
               "node_type": "item",
               "title": "rust-wasi-example",
-              "description": null,
+              "description": "wapm-packages/rust-wasi-example",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -467,7 +467,7 @@
             {
               "node_type": "item",
               "title": "fortune",
-              "description": null,
+              "description": "wapm-packages/fortune",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -488,7 +488,7 @@
             {
               "node_type": "item",
               "title": "viu",
-              "description": null,
+              "description": "wapm-packages/viu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -509,7 +509,7 @@
             {
               "node_type": "item",
               "title": "lolcat",
-              "description": null,
+              "description": "wapm-packages/lolcat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -537,7 +537,7 @@
             {
               "node_type": "item",
               "title": "WASI C Tutorial",
-              "description": null,
+              "description": "bytecodealliance/wasmtime",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -547,10 +547,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T23:03:16Z",
-                "open_issues": 843,
+                "open_issues": 850,
                 "owner": "bytecodealliance",
                 "repo": "wasmtime",
-                "stars": 18679,
+                "stars": 18681,
                 "topics": [
                   "aot",
                   "cranelift",
@@ -572,7 +572,7 @@
             {
               "node_type": "item",
               "title": "Wasm Clang",
-              "description": null,
+              "description": "binji/wasm-clang",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -593,7 +593,7 @@
             {
               "node_type": "item",
               "title": "quickjs",
-              "description": null,
+              "description": "saghul/wasi-lab",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -620,7 +620,7 @@
             {
               "node_type": "item",
               "title": "duktape",
-              "description": null,
+              "description": "saghul/wasi-lab",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -647,7 +647,7 @@
             {
               "node_type": "item",
               "title": "sqlite",
-              "description": null,
+              "description": "wapm-packages/sqlite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -673,7 +673,7 @@
             {
               "node_type": "item",
               "title": "OpenSSL",
-              "description": null,
+              "description": "wapm-packages/OpenSSL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -699,7 +699,7 @@
             {
               "node_type": "item",
               "title": "jq",
-              "description": null,
+              "description": "wapm-packages/jq",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -731,7 +731,7 @@
             {
               "node_type": "item",
               "title": "SHA256",
-              "description": null,
+              "description": "ChrisWhealy/wasm_sha256",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -764,7 +764,7 @@
             {
               "node_type": "item",
               "title": "zig-wasi-tutorial",
-              "description": null,
+              "description": "kubkon/zig-wasi-tutorial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -785,7 +785,7 @@
             {
               "node_type": "item",
               "title": "Hello World",
-              "description": null,
+              "description": "bketelsen/hello-wapi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:03:28.765Z",
+    "last_updated": "2026-10-03T05:12:46.893Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Curated list of awesome things regarding WebAssembly WASI ecosystem.",
