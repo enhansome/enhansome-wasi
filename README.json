@@ -19,7 +19,7 @@
             "open_issues": 244,
             "owner": "WebAssembly",
             "repo": "WASI",
-            "stars": 5821,
+            "stars": 5820,
             "topics": [
               "http",
               "os",
@@ -45,7 +45,7 @@
             "open_issues": 244,
             "owner": "WebAssembly",
             "repo": "WASI",
-            "stars": 5821,
+            "stars": 5820,
             "topics": [
               "http",
               "os",
@@ -71,7 +71,7 @@
             "open_issues": 244,
             "owner": "WebAssembly",
             "repo": "WASI",
-            "stars": 5821,
+            "stars": 5820,
             "topics": [
               "http",
               "os",
@@ -94,10 +94,10 @@
             "language": "CMake",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T16:56:18Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "WebAssembly",
             "repo": "wasi-sdk",
-            "stars": 1646,
+            "stars": 1645,
             "topics": [
               "llvm",
               "sysroot",
@@ -126,10 +126,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-06T09:28:56Z",
-            "open_issues": 282,
+            "open_issues": 281,
             "owner": "wasmerio",
             "repo": "wasmer",
-            "stars": 21127,
+            "stars": 21129,
             "topics": [
               "emscripten",
               "linux",
@@ -157,11 +157,11 @@
             "id": 101767772,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T23:39:00Z",
-            "open_issues": 842,
+            "last_commit": "2026-10-06T22:56:32Z",
+            "open_issues": 867,
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18689,
+            "stars": 18692,
             "topics": [
               "aot",
               "cranelift",
@@ -196,7 +196,7 @@
             "open_issues": 18,
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 8043,
+            "stars": 8042,
             "topics": [
               "containers",
               "cosmopolitan",
@@ -258,7 +258,7 @@
             "open_issues": 29,
             "owner": "WAVM",
             "repo": "WAVM",
-            "stars": 2784,
+            "stars": 2783,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:38.341Z"
@@ -306,7 +306,7 @@
             "open_issues": 4,
             "owner": "GoogleChromeLabs",
             "repo": "wasi-fs-access",
-            "stars": 350,
+            "stars": 349,
             "topics": [
               "coreutils",
               "demo",
@@ -546,11 +546,11 @@
                 "id": 101767772,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T23:39:00Z",
-                "open_issues": 842,
+                "last_commit": "2026-10-06T22:56:32Z",
+                "open_issues": 867,
                 "owner": "bytecodealliance",
                 "repo": "wasmtime",
-                "stars": 18689,
+                "stars": 18692,
                 "topics": [
                   "aot",
                   "cranelift",
@@ -585,7 +585,7 @@
                 "open_issues": 10,
                 "owner": "binji",
                 "repo": "wasm-clang",
-                "stars": 343,
+                "stars": 341,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:17:38.341Z"
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:00:10.947Z",
+    "last_updated": "2026-10-06T23:06:41.552Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Curated list of awesome things regarding WebAssembly WASI ecosystem.",
@@ -825,7 +825,7 @@
       "open_issues": 2,
       "owner": "wasmerio",
       "repo": "awesome-wasi",
-      "stars": 557,
+      "stars": 556,
       "topics": [
         "awesome",
         "awesome-list",
