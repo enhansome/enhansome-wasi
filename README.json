@@ -129,7 +129,7 @@
             "open_issues": 281,
             "owner": "wasmerio",
             "repo": "wasmer",
-            "stars": 21136,
+            "stars": 21140,
             "topics": [
               "emscripten",
               "linux",
@@ -157,11 +157,11 @@
             "id": 101767772,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T20:52:24Z",
-            "open_issues": 865,
+            "last_commit": "2026-10-09T22:24:35Z",
+            "open_issues": 867,
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18701,
+            "stars": 18706,
             "topics": [
               "aot",
               "cranelift",
@@ -231,7 +231,7 @@
             "open_issues": 65,
             "owner": "bytecodealliance",
             "repo": "lucet",
-            "stars": 4042,
+            "stars": 4041,
             "topics": [
               "assemblyscript",
               "rust",
@@ -258,7 +258,7 @@
             "open_issues": 29,
             "owner": "WAVM",
             "repo": "WAVM",
-            "stars": 2783,
+            "stars": 2782,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:38.341Z"
@@ -546,11 +546,11 @@
                 "id": 101767772,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T20:52:24Z",
-                "open_issues": 865,
+                "last_commit": "2026-10-09T22:24:35Z",
+                "open_issues": 867,
                 "owner": "bytecodealliance",
                 "repo": "wasmtime",
-                "stars": 18701,
+                "stars": 18706,
                 "topics": [
                   "aot",
                   "cranelift",
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T23:47:10.847Z",
+    "last_updated": "2026-10-09T23:19:11.787Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Curated list of awesome things regarding WebAssembly WASI ecosystem.",
