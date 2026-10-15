@@ -97,7 +97,7 @@
             "open_issues": 37,
             "owner": "WebAssembly",
             "repo": "wasi-sdk",
-            "stars": 1647,
+            "stars": 1649,
             "topics": [
               "llvm",
               "sysroot",
@@ -125,11 +125,11 @@
             "id": 152572186,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-14T21:25:42Z",
+            "last_commit": "2026-10-15T22:26:07Z",
             "open_issues": 286,
             "owner": "wasmerio",
             "repo": "wasmer",
-            "stars": 21155,
+            "stars": 21156,
             "topics": [
               "emscripten",
               "linux",
@@ -157,8 +157,8 @@
             "id": 101767772,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T22:19:33Z",
-            "open_issues": 857,
+            "last_commit": "2026-10-15T22:25:03Z",
+            "open_issues": 845,
             "owner": "bytecodealliance",
             "repo": "wasmtime",
             "stars": 18725,
@@ -196,7 +196,7 @@
             "open_issues": 19,
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 8051,
+            "stars": 8053,
             "topics": [
               "containers",
               "cosmopolitan",
@@ -258,7 +258,7 @@
             "open_issues": 29,
             "owner": "WAVM",
             "repo": "WAVM",
-            "stars": 2782,
+            "stars": 2783,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:38.341Z"
@@ -546,8 +546,8 @@
                 "id": 101767772,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T22:19:33Z",
-                "open_issues": 857,
+                "last_commit": "2026-10-15T22:25:03Z",
+                "open_issues": 845,
                 "owner": "bytecodealliance",
                 "repo": "wasmtime",
                 "stars": 18725,
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T22:22:26.713Z",
+    "last_updated": "2026-10-15T22:27:14.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Curated list of awesome things regarding WebAssembly WASI ecosystem.",
