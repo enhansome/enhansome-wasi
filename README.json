@@ -125,11 +125,11 @@
             "id": 152572186,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-26T10:11:38Z",
-            "open_issues": 290,
+            "last_commit": "2026-10-27T22:59:22Z",
+            "open_issues": 291,
             "owner": "wasmerio",
             "repo": "wasmer",
-            "stars": 21198,
+            "stars": 21201,
             "topics": [
               "emscripten",
               "linux",
@@ -157,11 +157,11 @@
             "id": 101767772,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T23:09:08Z",
-            "open_issues": 862,
+            "last_commit": "2026-10-27T22:45:34Z",
+            "open_issues": 857,
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18777,
+            "stars": 18786,
             "topics": [
               "aot",
               "cranelift",
@@ -196,7 +196,7 @@
             "open_issues": 21,
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 8067,
+            "stars": 8068,
             "topics": [
               "containers",
               "cosmopolitan",
@@ -334,7 +334,7 @@
             "open_issues": 26,
             "owner": "wasienv",
             "repo": "wasienv",
-            "stars": 316,
+            "stars": 315,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:38.341Z"
@@ -546,11 +546,11 @@
                 "id": 101767772,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T23:09:08Z",
-                "open_issues": 862,
+                "last_commit": "2026-10-27T22:45:34Z",
+                "open_issues": 857,
                 "owner": "bytecodealliance",
                 "repo": "wasmtime",
-                "stars": 18777,
+                "stars": 18786,
                 "topics": [
                   "aot",
                   "cranelift",
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T23:10:35.778Z",
+    "last_updated": "2026-10-27T23:00:11.456Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Curated list of awesome things regarding WebAssembly WASI ecosystem.",

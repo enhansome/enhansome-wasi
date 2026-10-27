@@ -32,9 +32,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ## WASI-compatible Runtimes
 
-* [Wasmer](https://github.com/wasmerio/wasmer) ⭐ 21,198 | 🐛 290 | 🌐 Rust | 📅 2026-10-26
-* [Wasmtime](https://github.com/cranestation/wasmtime) ⭐ 18,777 | 🐛 862 | 🌐 Rust | 📅 2026-10-26
-* [wasm3](https://github.com/wasm3/wasm3) ⭐ 8,067 | 🐛 21 | 🌐 C | 📅 2026-09-30
+* [Wasmer](https://github.com/wasmerio/wasmer) ⭐ 21,201 | 🐛 291 | 🌐 Rust | 📅 2026-10-27
+* [Wasmtime](https://github.com/cranestation/wasmtime) ⭐ 18,786 | 🐛 857 | 🌐 Rust | 📅 2026-10-27
+* [wasm3](https://github.com/wasm3/wasm3) ⭐ 8,068 | 🐛 21 | 🌐 C | 📅 2026-09-30
 * [Lucet](https://github.com/fastly/lucet) ⚠️ Archived
 * [WAVM](https://github.com/WAVM/WAVM) ⭐ 2,787 | 🐛 29 | 🌐 C++ | 📅 2026-04-05
 * [wasm2cil](https://github.com/ericsink/wasm2cil) ⭐ 297 | 🐛 6 | 🌐 C | 📅 2020-06-14
@@ -42,7 +42,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ## Utilities
 
 * [WASI + File System Access API: browser shell demo with a real filesystem access](https://github.com/GoogleChromeLabs/wasi-fs-access) ⭐ 349 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-24
-* [Wasienv: WASI Development Workflow for Humans](https://github.com/wasienv/wasienv) ⭐ 316 | 🐛 26 | 🌐 Python | 📅 2023-06-06
+* [Wasienv: WASI Development Workflow for Humans](https://github.com/wasienv/wasienv) ⭐ 315 | 🐛 26 | 🌐 Python | 📅 2023-06-06
 * [WASA - WASI layer interface for AssemblyScript](https://github.com/jedisct1/wasa) ⭐ 262 | 🐛 1 | 🌐 TypeScript | 📅 2025-12-27
 * [WebAssembly.sh - An online WebAssembly WASI shell](https://webassembly.sh)
 
@@ -63,7 +63,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### C
 
-* [WASI C Tutorial](https://github.com/CraneStation/wasmtime/blob/master/docs/WASI-tutorial.md) ⭐ 18,777 | 🐛 862 | 🌐 Rust | 📅 2026-10-26
+* [WASI C Tutorial](https://github.com/CraneStation/wasmtime/blob/master/docs/WASI-tutorial.md) ⭐ 18,786 | 🐛 857 | 🌐 Rust | 📅 2026-10-27
 * [Wasm Clang](https://github.com/binji/wasm-clang) ⭐ 341 | 🐛 10 | 🌐 JavaScript | 📅 2023-12-07
 * [quickjs](https://github.com/saghul/wasi-lab/tree/master/qjs-wasi) ⭐ 119 | 🐛 4 | 🌐 C | 📅 2021-06-08
 * [duktape](https://github.com/saghul/wasi-lab/tree/master/wasiduk) ⭐ 119 | 🐛 4 | 🌐 C | 📅 2021-06-08
@@ -117,4 +117,4 @@ To the extent possible under law, [Wasmer, Inc.](https://github.com/wasmerio) ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
