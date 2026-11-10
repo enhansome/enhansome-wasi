@@ -32,9 +32,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ## WASI-compatible Runtimes
 
-* [Wasmer](https://github.com/wasmerio/wasmer) ⭐ 21,228 | 🐛 269 | 🌐 Rust | 📅 2026-11-07
-* [Wasmtime](https://github.com/cranestation/wasmtime) ⭐ 18,833 | 🐛 871 | 🌐 Rust | 📅 2026-11-07
-* [wasm3](https://github.com/wasm3/wasm3) ⭐ 8,078 | 🐛 21 | 🌐 C | 📅 2026-09-30
+* [Wasmer](https://github.com/wasmerio/wasmer) ⭐ 21,230 | 🐛 271 | 🌐 Rust | 📅 2026-11-09
+* [Wasmtime](https://github.com/cranestation/wasmtime) ⭐ 18,840 | 🐛 861 | 🌐 Rust | 📅 2026-11-10
+* [wasm3](https://github.com/wasm3/wasm3) ⭐ 8,080 | 🐛 21 | 🌐 C | 📅 2026-09-30
 * [Lucet](https://github.com/fastly/lucet) ⚠️ Archived
 * [WAVM](https://github.com/WAVM/WAVM) ⭐ 2,787 | 🐛 29 | 🌐 C++ | 📅 2026-04-05
 * [wasm2cil](https://github.com/ericsink/wasm2cil) ⭐ 297 | 🐛 6 | 🌐 C | 📅 2020-06-14
@@ -63,7 +63,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### C
 
-* [WASI C Tutorial](https://github.com/CraneStation/wasmtime/blob/master/docs/WASI-tutorial.md) ⭐ 18,833 | 🐛 871 | 🌐 Rust | 📅 2026-11-07
+* [WASI C Tutorial](https://github.com/CraneStation/wasmtime/blob/master/docs/WASI-tutorial.md) ⭐ 18,840 | 🐛 861 | 🌐 Rust | 📅 2026-11-10
 * [Wasm Clang](https://github.com/binji/wasm-clang) ⭐ 341 | 🐛 10 | 🌐 JavaScript | 📅 2023-12-07
 * [quickjs](https://github.com/saghul/wasi-lab/tree/master/qjs-wasi) ⭐ 119 | 🐛 4 | 🌐 C | 📅 2021-06-08
 * [duktape](https://github.com/saghul/wasi-lab/tree/master/wasiduk) ⭐ 119 | 🐛 4 | 🌐 C | 📅 2021-06-08
@@ -117,4 +117,4 @@ To the extent possible under law, [Wasmer, Inc.](https://github.com/wasmerio) ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
