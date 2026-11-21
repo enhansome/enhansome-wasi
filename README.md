@@ -26,14 +26,14 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [WASI GitHub Repo](https://github.com/webassembly/WASI) ⭐ 5,850 | 🐛 241 | 🌐 Rust | 📅 2026-11-01
 * [WASI Preview API (Previously known as WASI-Core)](https://github.com/WebAssembly/WASI/blob/master/phases/snapshot/docs.md) ⭐ 5,850 | 🐛 241 | 🌐 Rust | 📅 2026-11-01
 * [WASI CG Meetings](https://github.com/WebAssembly/WASI/tree/master/meetings) ⭐ 5,850 | 🐛 241 | 🌐 Rust | 📅 2026-11-01
-* [WASI SDK](https://github.com/CraneStation/wasi-sdk) ⭐ 1,665 | 🐛 36 | 🌐 CMake | 📅 2026-11-19
+* [WASI SDK](https://github.com/CraneStation/wasi-sdk) ⭐ 1,664 | 🐛 36 | 🌐 CMake | 📅 2026-11-19
 * [Official Website](http://wasi.dev/)
 * [Mozilla Announcement](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
 
 ## WASI-compatible Runtimes
 
-* [Wasmer](https://github.com/wasmerio/wasmer) ⭐ 21,256 | 🐛 277 | 🌐 Rust | 📅 2026-11-20
-* [Wasmtime](https://github.com/cranestation/wasmtime) ⭐ 18,881 | 🐛 865 | 🌐 Rust | 📅 2026-11-21
+* [Wasmer](https://github.com/wasmerio/wasmer) ⭐ 21,255 | 🐛 278 | 🌐 Rust | 📅 2026-11-21
+* [Wasmtime](https://github.com/cranestation/wasmtime) ⭐ 18,885 | 🐛 861 | 🌐 Rust | 📅 2026-11-21
 * [wasm3](https://github.com/wasm3/wasm3) ⭐ 8,090 | 🐛 21 | 🌐 C | 📅 2026-09-30
 * [Lucet](https://github.com/fastly/lucet) ⚠️ Archived
 * [WAVM](https://github.com/WAVM/WAVM) ⭐ 2,789 | 🐛 29 | 🌐 C++ | 📅 2026-04-05
@@ -63,8 +63,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### C
 
-* [WASI C Tutorial](https://github.com/CraneStation/wasmtime/blob/master/docs/WASI-tutorial.md) ⭐ 18,881 | 🐛 865 | 🌐 Rust | 📅 2026-11-21
-* [Wasm Clang](https://github.com/binji/wasm-clang) ⭐ 343 | 🐛 10 | 🌐 JavaScript | 📅 2023-12-07
+* [WASI C Tutorial](https://github.com/CraneStation/wasmtime/blob/master/docs/WASI-tutorial.md) ⭐ 18,885 | 🐛 861 | 🌐 Rust | 📅 2026-11-21
+* [Wasm Clang](https://github.com/binji/wasm-clang) ⭐ 344 | 🐛 10 | 🌐 JavaScript | 📅 2023-12-07
 * [quickjs](https://github.com/saghul/wasi-lab/tree/master/qjs-wasi) ⭐ 119 | 🐛 4 | 🌐 C | 📅 2021-06-08
 * [duktape](https://github.com/saghul/wasi-lab/tree/master/wasiduk) ⭐ 119 | 🐛 4 | 🌐 C | 📅 2021-06-08
 * [sqlite](https://github.com/wapm-packages/sqlite) ⭐ 64 | 🐛 1 | 🌐 C | 📅 2022-02-15
