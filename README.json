@@ -126,10 +126,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-11-21T10:15:57Z",
-            "open_issues": 278,
+            "open_issues": 272,
             "owner": "wasmerio",
             "repo": "wasmer",
-            "stars": 21256,
+            "stars": 21260,
             "topics": [
               "emscripten",
               "linux",
@@ -157,8 +157,8 @@
             "id": 101767772,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T17:06:26Z",
-            "open_issues": 865,
+            "last_commit": "2026-11-24T01:33:16Z",
+            "open_issues": 875,
             "owner": "bytecodealliance",
             "repo": "wasmtime",
             "stars": 18891,
@@ -193,7 +193,7 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-09-30T22:02:43Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "wasm3",
             "repo": "wasm3",
             "stars": 8093,
@@ -258,7 +258,7 @@
             "open_issues": 29,
             "owner": "WAVM",
             "repo": "WAVM",
-            "stars": 2789,
+            "stars": 2790,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:38.341Z"
@@ -546,8 +546,8 @@
                 "id": 101767772,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T17:06:26Z",
-                "open_issues": 865,
+                "last_commit": "2026-11-24T01:33:16Z",
+                "open_issues": 875,
                 "owner": "bytecodealliance",
                 "repo": "wasmtime",
                 "stars": 18891,
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T00:21:29.777Z",
+    "last_updated": "2026-11-24T04:19:20.684Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Curated list of awesome things regarding WebAssembly WASI ecosystem.",
