@@ -126,10 +126,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-11-25T12:27:31Z",
-            "open_issues": 213,
+            "open_issues": 191,
             "owner": "wasmerio",
             "repo": "wasmer",
-            "stars": 21265,
+            "stars": 21266,
             "topics": [
               "emscripten",
               "linux",
@@ -158,10 +158,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-26T00:02:43Z",
-            "open_issues": 871,
+            "open_issues": 872,
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18899,
+            "stars": 18905,
             "topics": [
               "aot",
               "cranelift",
@@ -196,7 +196,7 @@
             "open_issues": 22,
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 8097,
+            "stars": 8098,
             "topics": [
               "containers",
               "cosmopolitan",
@@ -547,10 +547,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-26T00:02:43Z",
-                "open_issues": 871,
+                "open_issues": 872,
                 "owner": "bytecodealliance",
                 "repo": "wasmtime",
-                "stars": 18899,
+                "stars": 18905,
                 "topics": [
                   "aot",
                   "cranelift",
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T02:17:38.705Z",
+    "last_updated": "2026-11-28T02:02:15.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Curated list of awesome things regarding WebAssembly WASI ecosystem.",
